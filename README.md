@@ -1,1 +1,3 @@
-# data_process_and_clean
+说明：本代码用于计算机视觉任务中，分类模型数据的预打标签和数据清洗
+
+具体原理详见：https://zhuanlan.zhihu.com/p/359960152
